@@ -1,0 +1,6 @@
+git+git://github.com/sigmavirus24/betamax.git#egg=betamax
+mock==1.0.1
+pymongo==3.3.0
+Scrapy==1.2.0.dev2
+txmongo==16.1.0
+unittest2==1.1.0
